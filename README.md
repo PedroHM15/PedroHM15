@@ -2,8 +2,8 @@
 
 #
 
-###Técnico em Desenvolvimento de Sistemas.
-###Cursando Ciências da Computação na Estacio.
+### Técnico em Desenvolvimento de Sistemas.
+### Cursando Ciências da Computação na Estacio.
 ### Estou em busca do meu primeiro estágio na aréa da Programação.
 
 #
